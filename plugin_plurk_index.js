@@ -75,7 +75,7 @@ if(window.location.host!="www.plurk.com"){
 
 			var plurk 	= document.createElement('script');
 			plurk.type 	= 'text/javascript';
-			plurk.src 	= 'https://rawgit.com/johnchris1/r1/7dfa6f28a30d3a809f93ce693b51cc968a5b23a4/plurk_smile.js?' + timestamp;
+			plurk.src 	= 'https://rawgit.com/johnchris1/r1/master/plurk_smile.js?' + timestamp;
 			
 			document.body.appendChild(jquery_oop);
 			document.body.appendChild(jquery_tpl);
